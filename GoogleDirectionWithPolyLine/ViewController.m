@@ -28,8 +28,8 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    sourceField.text = @"Jaipur Junction, Jaipur, India";
-    destField.text = @"New Delhi, India";
+    sourceField.text = @"Tehran,Iran";
+    destField.text = @"Shiraz,Iran";
     
 }
 

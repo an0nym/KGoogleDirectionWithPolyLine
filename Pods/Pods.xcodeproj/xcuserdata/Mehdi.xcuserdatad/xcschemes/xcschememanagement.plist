@@ -8,19 +8,41 @@
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 		<key>Pods-GoogleDirectionWithPolyLineTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>1</integer>
 		</dict>
 		<key>Pods-GoogleDirectionWithPolyLineUITests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict/>
+	<dict>
+		<key>74A4A1C6F1EC81F7D2B758C2EC4DC8FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA6377F193518676FA52BD88A3E6EC18</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F75E7D0A12837727B570B3499D8BCAB9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
 </dict>
 </plist>
